@@ -85,3 +85,33 @@ body {
   color: white;
   font-weight: bold;
 }
+
+@media (max-width: 400px){
+  .calculadora{
+    width: 90w;
+    padding: 15px;
+    border-width: 3px;
+  }
+
+  #display{
+    height: 40px;
+    font-size: 1.5rem;
+    padding: 8px;
+    border-width: 2.5px;
+  }
+
+  .botoes{
+    gap: 8px;
+  }
+
+  .btn{
+    padding: 14px 0;
+    font-size: 1rem;
+    border-width: 2px;
+  }
+
+  #equals, #clear, #del{
+    font-size: 1rem;
+  }
+
+}
