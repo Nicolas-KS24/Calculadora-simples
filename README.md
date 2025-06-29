@@ -16,7 +16,7 @@ Uma calculadora simples desenvolvida com **HTML**, **CSS** e **JavaScript**, que
 ---
 
 ## 🚀 Como acessar
-➜ via GitHub Pages: [Calculadora Simples]()
+➜ via GitHub Pages: [Calculadora Simples](https://nicolas-ks24.github.io/Calculadora-simples/)
 
 ---
 
