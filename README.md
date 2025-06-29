@@ -9,7 +9,7 @@ Uma calculadora simples desenvolvida com **HTML**, **CSS** e **JavaScript**, que
 - Operações básicas: adição, subtração, multiplicação e divisão
 - Prevenir operadores duplicados
 - Limpar cálculo (`C`)
-- Apagar último caractere (`⌫`)
+- Apagar último caractere (`Delete`)
 - Interface responsiva e estilizada com CSS
 - Resultado com `eval()` e tratamento de erros
 
