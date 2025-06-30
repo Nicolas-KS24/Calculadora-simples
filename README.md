@@ -11,7 +11,7 @@ Uma calculadora simples desenvolvida com **HTML**, **CSS** e **JavaScript**, que
 - Limpar cálculo (`C`)
 - Apagar último caractere (`Delete`)
 - Interface responsiva e estilizada com CSS
-- Resultado com `eval()` e tratamento de erros
+- Resultado com `eval()`
 
 ---
 
